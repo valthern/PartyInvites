@@ -20536,8 +20536,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Omar\\source\\repos\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+      "TargetPath": "Views\\Home\\ListResponses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Omar\\source\\repos\\PartyInvites\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Omar\\source\\repos\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+      "TargetPath": "Views\\Home\\Thanks.cshtml",
       "FileKind": "mvc"
     },
     {
